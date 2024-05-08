@@ -1,0 +1,6 @@
+@BearerAuth_HostAddress = http://localhost:5019
+
+GET {{BearerAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
